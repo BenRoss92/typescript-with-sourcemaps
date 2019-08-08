@@ -12,3 +12,5 @@ gulp.task('copyFiles', function(done) {
         .pipe(gulp.dest('./public'));
         done();
 });
+
+gulp.task('copy-and-log', gulp.series(copyFiles, log));

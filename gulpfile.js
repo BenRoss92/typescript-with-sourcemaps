@@ -23,6 +23,7 @@ function copyFiles() {
 }
 
 module.exports = {
-    log,
+    // when calling the log task, make it perform the copyFiles task first
+    log: gulp.series(copyFiles, log),
     copyFiles,
 };
