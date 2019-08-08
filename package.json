@@ -18,6 +18,7 @@
   "homepage": "https://github.com/BenRoss92/typescript-with-sourcemaps#readme",
   "devDependencies": {
     "gulp": "^4.0.0",
+    "gulp-eslint": "^6.0.0",
     "gulp-typescript": "^5.0.1",
     "typescript": "^3.5.3"
   }

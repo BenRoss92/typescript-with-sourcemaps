@@ -9,7 +9,7 @@ gulp.task('log', function(done) {
 
 gulp.task('copyFiles', function(done) {
     gulp.src('./src/**/*')
-        .pipe(gulp.dest('./public'));
+        .pipe(gulp.dest('./public/ts'));
         done();
 });
 

@@ -1,7 +1,7 @@
 {
     "files": [
         // specify the files 
-        "./src/main.ts"
+        "./src/ts/main.ts"
     ],
     // specify the compiler options
     "compilerOptions": {
