@@ -1,0 +1,19 @@
+{
+  "name": "typescript-with-sourcemaps",
+  "version": "1.0.0",
+  "description": "Building front-end files with Gulp, TypeScript and sourcemaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenRoss92/typescript-with-sourcemaps.git"
+  },
+  "author": "Ben Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenRoss92/typescript-with-sourcemaps/issues"
+  },
+  "homepage": "https://github.com/BenRoss92/typescript-with-sourcemaps#readme"
+}
