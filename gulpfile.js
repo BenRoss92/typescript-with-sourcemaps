@@ -48,4 +48,6 @@ module.exports = {
     log: gulp.series(copyFiles, log),
     copyFiles,
     lintJs,
+    // specify the default gulp task:
+    default: lintJs,
 };
