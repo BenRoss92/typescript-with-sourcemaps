@@ -1,0 +1,13 @@
+{
+    "files": [
+        // specify the files 
+        "./src/main.ts"
+    ],
+    // specify the compiler options
+    "compilerOptions": {
+        // don't allow implicit `any` type
+        "noImplicitAny": true,
+        // compile typescript to es5
+        "target": "es5"
+    }
+}
