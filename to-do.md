@@ -8,6 +8,14 @@
 
 
 * Create a default gulp task that can compile your typescript files into javascript files and place them in your `dist` folder. Run your gulp task and then run the resulting JS file
+  * Get your typescript files to run in a browser, with sourcemaps
+  * Add browsersync - so the browser will re-run your resulting js file whenever you make a change to one of your typescript files
+  * Use these helpful links:
+    * https://www.youtube.com/watch?v=tTrPLQ6nOX8
+    * https://www.youtube.com/watch?v=p9OUNeocwIg
+    * https://www.youtube.com/watch?v=EZymPZz5bj8
+  * Ensure you can debug your typescript code in a browser
+  * Ensure you can debug your typescript code in VS Code
 
 ## Done
 
